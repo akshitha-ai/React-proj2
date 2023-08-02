@@ -1,0 +1,101 @@
+.form {
+    height: 100%;
+    width: 30%;
+    background-color: white;
+    align-items: center;
+    margin-left: 55%;
+    border-radius: 3%;
+}
+.nav ul {
+    color: black;
+    margin-left: -1%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 1%;
+    padding: 4% 17% 3% 17%;
+    cursor: pointer;
+}
+.inputbox input {
+    border: none;
+    outline: none;
+    border-bottom: 2px solid gray;
+    margin-left: 10%;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 0% 10% 0% 0%;
+}
+.inputbox1 input {
+    border: none;
+    outline: none;
+    border-bottom: 2px solid gray;
+    margin-left: 30%;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 0% 10% 0% 0%;
+}
+.inputbox2 input {
+    border: none;
+    outline: none;
+    border-bottom: 2px solid gray;
+    margin-left: 10%;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 0% 10% 0% 0%;
+}
+.inputbox3 input {
+    border: none;
+    outline: none;
+    border-bottom: 2px solid gray;
+    margin-left: 10%;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 0% 10% 0% 0%;
+}
+.inputbox  {
+    color: #2fdddd;
+    margin-left: 4%;
+}
+.inputbox1 {
+    color: #2fdddd;
+    margin-left: 4%;
+}
+.inputbox1 span{
+    color: #050505;
+    margin-left: 4%;
+}
+.inputbox span {
+    color: black;
+    margin-left: 1%;
+}
+.inputbox2{
+    color: #2fdddd;
+    margin-left: 4%;
+}
+.inputbox2 span {
+    color: black;
+    margin-left: 4%;
+}
+.inputbox3{
+    color: #2fdddd;
+    margin-left: 4%;
+}
+.inputbox3 span {
+    color: black;
+    margin-left: 4%;
+}
+.button1 button {
+    background-color: rgb(47, 221, 221);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 3% 36% 3% 36%;
+    border: none;
+    margin-bottom: 6%;
+    border-radius: 10px;
+    margin-left: 3.5%;
+    cursor: pointer;
+}
+.para {
+    color: black;
+}
